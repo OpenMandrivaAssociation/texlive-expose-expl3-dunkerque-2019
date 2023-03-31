@@ -1,6 +1,6 @@
 Name:		texlive-expose-expl3-dunkerque-2019
 Version:	54451
-Release:	1
+Release:	2
 Summary:	Using expl3 to implement some numerical algorithms
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expose-expl3-dunkerque-2019
