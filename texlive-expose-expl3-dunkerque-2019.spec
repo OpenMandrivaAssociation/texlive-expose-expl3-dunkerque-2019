@@ -3,7 +3,7 @@ Version:	54451
 Release:	2
 Summary:	Using expl3 to implement some numerical algorithms
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expose-expl3-dunkerque-2019
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/expose-expl3-dunkerque-2019
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expose-expl3-dunkerque-2019.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expose-expl3-dunkerque-2019.doc.r%{version}.tar.xz
